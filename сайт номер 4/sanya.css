@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color: red;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+
+    /* font-family:'Courier New', Courier, monospace; */
+}
+
+
+.sanya {
+    border-radius: 100px;
+}
+
+.sanya2 {
+    border-radius: 100px;
+}
